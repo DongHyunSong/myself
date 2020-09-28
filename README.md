@@ -7,8 +7,10 @@
 
 ## Work Experience
 ### Netpia
-- Developed groupware software based by Apache, PHP and MySQL (2002.02 ~ 2002.08)
-### Samsung Electronics (current)
+- 2002.02 ~ 2002.08
+- Developed groupware software based by Apache, PHP and MySQL
+### Samsung Electronics
+- 2007.01 ~ current
 - Samsung in-house web engine (Maple browser)<br>
   ✔ Developed JavaScript interfaces of Web APIs and W3C standards with SpiderMonkey<br>
   ✔ Network stack - libwww<br>
